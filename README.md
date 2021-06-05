@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nmnczml
-- 👀 I’m interested in C#, asp.Net, Java, Python, Unity Game Design, Mobile Development Android, Swift, React Native
+- 👋 Hi, I’m Numan,  <a href='http://numancizmeli.com'> <img src='https://camo.githubusercontent.com/848b97cc4b083526b0c238b28d6e2bfadb22b3de900f384e2209fb4bd454d84b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6368726f6d69756d2e737667' width='25px'></a>
+<a href='https://www.instagram.com/nmnczml/'> <img src='https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667' width='25px'></a> <a href='https://www.linkedin.com/in/numancizmeli/'> <img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' width='25px'></a>
+- 👀 I’m interested in AWS, C#, Asp.Net, Java, Python, Unity Game Design, Mobile Development Android, Swift, React Native
 - 🌱 I’m currently learning AI, ML, DataScience
-- 📫 How to reach me nmnczml[at}gmail.com
+- 📫 You can reach me from nmnczml at gmail
