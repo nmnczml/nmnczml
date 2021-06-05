@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nmnczml
+- 👀 I’m interested in C#, asp.Net, Java, Python, Unity Game Design, Mobile Development Android, Swift, React Native
+- 🌱 I’m currently learning AI, ML, DataScience
+- 📫 How to reach me nmnczml[at}gmail.com
